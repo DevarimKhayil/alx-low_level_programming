@@ -1,6 +1,6 @@
 #include "lists.h"
 /**
- * listint_lem - prints number of the elements of a listint_t list
+ * listint_len - prints number of the elements of a listint_t list
  * @h: pointer to a struct
  * Return: the number of elements
  */
